@@ -21,8 +21,15 @@ Requires MATLAB&reg; release R2022b
 - [Robotics System Toolbox&trade;](https://www.mathworks.com/products/robotics.html)
 - [ROS Toolbox](https://www.mathworks.com/products/ros.html)
 - [Computer Vision Toolbox&trade;](https://www.mathworks.com/products/computer-vision.html)
+- [Image Processing Toolbox&trade;](https://www.mathworks.com/products/image.html)
+- [Deep Learning Toolbox&trade;](https://www.mathworks.com/products/deep-learning.html)
+- [Optimization Toolbox&trade;](https://www.mathworks.com/products/optimization.html)
+- [Statistics and Machine Learning Toolbox&trade;](https://www.mathworks.com/products/statistics.html)
 - [Robotics System Toolbox Support Package for Universal Robots UR Series Manipulators](https://www.mathworks.com/matlabcentral/fileexchange/117530-robotics-system-toolbox-support-package-for-universal-robots-ur-series-manipulators)
 
+Optional Products
+- [MATLAB Coder&trade;](https://www.mathworks.com/products/matlab-coder.html)
+- [Computer Vision Toolbox Model for YOLO v4 Object Detection](https://www.mathworks.com/matlabcentral/fileexchange/107969-computer-vision-toolbox-model-for-yolo-v4-object-detection)
 
 ## Installation
 Installation instructions
