@@ -16,7 +16,7 @@ More information about Trademarks can be found internally within the Checklist f
 
 ### MathWorks Products (https://www.mathworks.com)
 
-Requires MATLAB&reg; release R2022b
+Requires MATLAB&reg; release R2022b or higher
 - [MATLAB&reg;](https://www.mathworks.com/products/matlab.html)
 - [Robotics System Toolbox&trade;](https://www.mathworks.com/products/robotics.html)
 - [ROS Toolbox](https://www.mathworks.com/products/ros.html)
