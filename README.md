@@ -43,8 +43,7 @@ To learn how to communicate with UR Series cobots over ROS, see [Getting Started
 <!--- Make sure you have a repo set up correctly if you are to follow this formatting --->
 
 ## License
-<!--- Make sure you have a License.txt within your Repo --->
-This example is licensed under the MathWorks XSLA License © 2022 The MathWorks, Inc, which is available in the license.txt file within this repository.
+The license is available in the License file within this repository.
 
 
 ## Community Support
