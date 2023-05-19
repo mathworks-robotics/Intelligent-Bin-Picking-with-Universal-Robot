@@ -1,4 +1,4 @@
-# Intelligent Bin Picking with Universal Robots UR5e Cobot for a semi-structured object distribution
+# Intelligent Bin Picking in MATLAB&reg; with Universal Robots UR5e Cobot for a semi-structured object distribution
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
 [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
