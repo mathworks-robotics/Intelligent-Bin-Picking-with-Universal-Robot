@@ -40,6 +40,9 @@ Installation instructions
 ## Examples
 
 To learn how to communicate with UR Series cobots over ROS, see [Getting Started with Connecting and Controlling a UR5e Cobot from Universal Robots](https://www.mathworks.com/help/supportpkg/urseries/ug/getting-started-controlling-ur5e.html). 
+  
+If you want to use Intelligent bin picking on Universal Robot with Simulink&reg; see the example [Intelligent Bin Picking with Simulink for Universal Robots](https://in.mathworks.com/matlabcentral/fileexchange/128699-intelligent-bin-picking-with-simulink-for-universal-robots?s_tid=srchtitle) 
+  
 <!--- Make sure you have a repo set up correctly if you are to follow this formatting --->
 
 ## License
