@@ -35,11 +35,11 @@ Optional Products
 Installation instructions
 
 1. MATLAB installation: Visit installation instructions [webpage](https://in.mathworks.com/help/install/) to get started with the MATLAB installation process. 
-2. Support package installation: Before proceeding, ensure that the products mentioned under MathWorks Products above are installed. To install the Robotics System Toolbox Support Package for Universal Robots UR Series Manipulators, follow the steps mentioned [here](https://in.mathworks.com/help/supportpkg/urseries/ug/install-support-for-manipulator-hardware.html).  
+2. Support package installation: Before proceeding, ensure that the products mentioned under MathWorks Products above are installed. To install the Robotics System Toolbox Support Package for Universal Robots UR Series Manipulators, follow the steps mentioned [here](https://www.mathworks.com/help/robotics/urseries/ug/install-support-for-manipulator-hardware.html).  
 
 ## Examples
 
-To learn how to communicate with UR Series cobots over ROS, see [Getting Started with Connecting and Controlling a UR5e Cobot from Universal Robots](https://www.mathworks.com/help/supportpkg/urseries/ug/getting-started-controlling-ur5e.html). 
+To learn how to communicate with UR Series cobots over ROS, see [Getting Started with Connecting and Controlling a UR5e Cobot from Universal Robots](https://www.mathworks.com/help/robotics/urseries/ug/getting-started-controlling-ur5e.html). 
   
 If you want to use Intelligent Bin Picking on Universal Robot with Simulink&reg; see the example [Intelligent Bin Picking with Simulink for Universal Robots](https://in.mathworks.com/matlabcentral/fileexchange/128699-intelligent-bin-picking-with-simulink-for-universal-robots?s_tid=srchtitle) 
   
